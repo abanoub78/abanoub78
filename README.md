@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/dZQ9Y2C.png" width="100%" />
+  <img src="https://scontent.faly8-2.fna.fbcdn.net/v/t39.30808-6/489329193_3231777286974456_2300185925896848694_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHGSLbDPlQ8lQx6T_u168ZakadRyCB7vziRp1HIIHu_OJcwze7CoeGvRgRATm8s0YQximzv2HXmbrN1WFSZtLZv&_nc_ohc=rU-lzL3Q1r8Q7kNvwEPu71W&_nc_oc=Adk1_aKl8O3SuBzh-O9Zl5tcGkIoCPrugRRzn_hvgVl5unkF0W9PkVsmdT5N3polGyI&_nc_zt=23&_nc_ht=scontent.faly8-2.fna&_nc_gid=hBmgore8sv8oJUuaw8RcKw&oh=00_Afim2KDi4MvpcpXHnQGLpuMvDXNxPRyO6ejCa1MFYl-jeg&oe=692A6841" width="100%" />
 </p>
 
 <!-- Name & Role -->
