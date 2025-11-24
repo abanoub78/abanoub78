@@ -1,77 +1,117 @@
-<!-- Header with Greeting -->
-<h1 align="center">Hi 👋, I'm Abanoub Yousry Shaker</h1>
-<h3 align="center">A Passionate Full Stack Developer from Egypt 🇪🇬</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/dZQ9Y2C.png" width="100%" />
+</p>
+
+<!-- Name & Role -->
+<h1 align="center">👋 Hey, I'm <span style="color:#4DA8DA;">Abanoub Yousry Shaker</span></h1>
+<h3 align="center">Full Stack Developer | Angular & Laravel | Cairo, Egypt 🇪🇬</h3>
+
+<p align="center">
+  📞 +20 111 398 1508 • ✉️ abanoubyousry12@gmail.com  
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abanoub-yousry78/">LinkedIn</a> • 
+  <a href="https://github.com/abanoub78">GitHub</a>
+</p>
 
 <br/>
 
-<!-- Typing Animation -->
+<!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;PHP+%7C+Laravel+%7C+Angular+Specialist;Love+Building+Real+World+Projects;Always+Learning+New+Technologies">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=4DA8DA&center=true&multiline=true&width=700&height=80&lines=Full+Stack+Developer;Angular+%2B+Laravel+Specialist;Bioinformatics+Graduate;Building+Creative+Digital+Experiences;Always+Learning+%26+Improving+🚀">
 </p>
 
 ---
 
-## 🚀 About Me  
-- 🔭 I’m currently working on **Swapify — Bartering Marketplace (Angular + Laravel)**  
-- 🌱 I’m improving my skills in **Angular, Laravel, REST APIs, MySQL**  
-- 💬 Ask me about **PHP, Laravel, Angular, JavaScript**  
-- 📫 Reach me at: **your.email@example.com**  
-- ⚡ Fun fact: *I turn coffee into code ☕ 💻*
+# 💡 About Me  
+Full-stack developer experienced in building responsive and dynamic web applications.  
+Known for strong communication skills, adaptability, and delivering high-quality results.  
+Passionate about learning, creating impactful projects, and contributing to team success.  
+
+🎓 **Bachelor of Bioinformatics — Assiut University (2019–2023)**  
+- Grade: ⭐ Very Good — GPA: **3.59**  
+- Graduation Project: **Alzheimer’s Disease Detector — Excellent**
+
+🎓 **ITI Intensive Code Camp (Full Stack Web using PHP)** — 2025  
+- Assiut Branch  
+- Built multiple real-world front-end & back-end systems  
 
 ---
 
-## 🛠️ Tech Stack  
-### **Frontend**
+# 🛠️ Tech Stack
+
+### 🎨 **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,react,angular,figma" />
 </p>
 
-### **Backend**
+### ⚙️ **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,mongodb,wordpress" />
 </p>
 
-### **Tools**
+### 🧰 **Tools & Others**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
 </p>
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 **Swapify — Barter Marketplace**  
-📦 *Angular + Laravel*  
-A platform where people can exchange products/services without money.  
-👉 **Repo:** [Swapify](https://github.com/yourusername/Swapify)
+# 🤝 Soft Skills
+- Problem Solving  
+- Critical Thinking  
+- Communication  
+- Teamwork  
+- Presentation  
 
 ---
 
-## 📊 GitHub Analytics  
+# 🌍 Languages
+- **Arabic:** Native  
+- **English:** B1  
+
+---
+
+# 🔥 Featured Project
+
+## 🌀 **Swapify — Barter Marketplace**  
+A modern platform that enables users to exchange services and items without money.  
+Built using **Angular + Laravel**, following clean architecture, authentication, and REST APIs.
+
+👉 Repo: **https://github.com/abanoub78/Swapify**
+
+---
+
+# 📊 GitHub Analytics  
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abanoub78&show_icons=true&theme=radical&border_radius=15" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abanoub78&layout=compact&theme=radical&border_radius=15" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies  
+# 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=discord&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abanoub78&theme=dracula&column=7&margin-w=10" />
 </p>
 
 ---
 
-## 🔗 Connect with Me  
-<p>
-  <a href="https://www.linkedin.com/in/yourusername/">
+# 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/abanoub-yousry78/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your.email@example.com">
+  &nbsp;&nbsp;
+  <a href="mailto:abanoubyousry12@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
 ---
 
-⭐ **Thanks for visiting my profile!**  
+<p align="center">
+  ⭐ <strong>Thanks for visiting — Have a great day!</strong> ⭐
+</p>
